@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main class="page-content">          
+      <div class="wrapper">
+        <div class="container">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+    {% include footer.html %}
+    <!--- Build: {{ site.time | split: "+" | first }} -->
+  </body>
+</html>
