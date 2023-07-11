@@ -18,11 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Novel Student Exhibition Formats (1)
+title: Novel Student Exhibition Formats (2)
 email: j.donovan@qut.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  This repository will record outcomes of the research project 'Novel Student Exhibition Formats to Support Student Learning in Design and Creative Practice.'
-baseurl: "" # the subpath of your site, e.g. /blog
+  This repository will record outcomes of the research project 'Novel Student
+  Exhibition Formats to Support Student Learning in Design and Creative
+  Practice.'
+domain: awarua.github.io
+url: https://awarua.github.io
+baseurl: "novel-student-exhibtions" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
