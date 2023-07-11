@@ -22,7 +22,7 @@ title: Novel Student Exhibition Formats (1)
 email: j.donovan@qut.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   This repository will record outcomes of the research project 'Novel Student Exhibition Formats to Support Student Learning in Design and Creative Practice.'
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
