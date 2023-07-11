@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Novel Student Exhibition Formats (5)
+title: Novel Student Exhibition Formats
 email: j.donovan@qut.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   This repository will record outcomes of the research project 'Novel Student
